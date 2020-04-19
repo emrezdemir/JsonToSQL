@@ -6,6 +6,6 @@ namespace JsonToSQL
 {
     internal class Constants
     {
-        public static string DefaultDbName = "JsonToSQL";
+        public static string DefaultDbName = "";
     }
 }
